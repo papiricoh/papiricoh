@@ -21,4 +21,6 @@ Born in the [Austro-Hungarian Empire](https://en.wikipedia.org/wiki/Austria-Hung
 ## Activity Graph
 [![papiricoh's github activity graph](https://activity-graph.herokuapp.com/graph?username=papiricoh&theme=react-dark)](https://github.com/papiricoh/github-readme-activity-graph)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=27F736&width=435&lines=%2F%3Ecd+HackClient;%2FHackClient%2F%3E.%2FstartHacking.sh;%23%23%23HACKCLIENT+ACTIVATED%23%23%23)](https://git.io/typing-svg)
+
 [![My Skills](https://skillicons.dev/icons?i=java,lua,html&perline=3)](https://skillicons.dev)
