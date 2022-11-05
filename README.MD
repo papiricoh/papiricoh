@@ -17,4 +17,7 @@ Born in the [Austro-Hungarian Empire](https://en.wikipedia.org/wiki/Austria-Hung
 | [ESX_Lawyer](https://github.com/papiricoh/esx_lawyer) | NO | YES | YES |
 | [ESX_Politics](esx_politics) | YES | NO | NO |
 
+## Activity Graph
+[![papiricoh's github activity graph](https://activity-graph.herokuapp.com/graph?username=papiricoh)](https://github.com/papiricoh/github-readme-activity-graph)
+
 [![My Skills](https://skillicons.dev/icons?i=java,lua,html&perline=3)](https://skillicons.dev)
