@@ -18,6 +18,6 @@ Born in the [Austro-Hungarian Empire](https://en.wikipedia.org/wiki/Austria-Hung
 | [ESX_Politics](esx_politics) | YES | NO | NO |
 
 ## Activity Graph
-[![papiricoh's github activity graph](https://activity-graph.herokuapp.com/graph?username=papiricoh)](https://github.com/papiricoh/github-readme-activity-graph)
+[![papiricoh's github activity graph](https://activity-graph.herokuapp.com/graph?username=papiricoh&theme=react-dark)](https://github.com/papiricoh/github-readme-activity-graph)
 
 [![My Skills](https://skillicons.dev/icons?i=java,lua,html&perline=3)](https://skillicons.dev)
