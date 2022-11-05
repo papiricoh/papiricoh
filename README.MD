@@ -9,4 +9,4 @@ Born in the [Austro-Hungarian Empire](https://en.wikipedia.org/wiki/Austria-Hung
 - PARADOX LANGUAJE: 🔘 🔘 🔘 🔘 🔘
 - HTML/CSS: 🔘 ⚫️ ⚫️ ⚫️ ⚫️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruflas&layout=compact&theme=synthwave)](https://github.com/papiricoh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papiricoh&layout=compact&theme=synthwave)](https://github.com/papiricoh/github-readme-stats)
