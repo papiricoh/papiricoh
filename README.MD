@@ -10,3 +10,4 @@ Born in the [Austro-Hungarian Empire](https://en.wikipedia.org/wiki/Austria-Hung
 - HTML/CSS: 🔘 ⚫️ ⚫️ ⚫️ ⚫️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papiricoh&layout=compact&theme=synthwave)](https://github.com/papiricoh/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=java,lua,html&perline=3)](https://skillicons.dev)
