@@ -10,4 +10,11 @@ Born in the [Austro-Hungarian Empire](https://en.wikipedia.org/wiki/Austria-Hung
 - HTML/CSS: 🔘 ⚫️ ⚫️ ⚫️ ⚫️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papiricoh&layout=compact&theme=synthwave)](https://github.com/papiricoh/github-readme-stats)
+
+| Proyect     | In Active | Runable | Finnished |
+| ---      | ---       | --- | ---|
+| [ExtendedVictoria](https://github.com/papiricoh/extendedTimeline) | YES | YES | NO |
+| [ESX_Lawyer](https://github.com/papiricoh/esx_lawyer) | NO | YES | YES |
+| [ESX_Politics](esx_politics) | YES | NO | NO |
+
 [![My Skills](https://skillicons.dev/icons?i=java,lua,html&perline=3)](https://skillicons.dev)
