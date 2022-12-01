@@ -12,7 +12,7 @@ Born in the [Austro-Hungarian Empire](https://en.wikipedia.org/wiki/Austria-Hung
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papiricoh&layout=compact&theme=synthwave)](https://github.com/papiricoh/github-readme-stats)
 
-| Proyect     | In Active | Runable | Finnished |
+| Project     | In Active | Runable | Finnished |
 | ---      | ---       | --- | ---|
 | [ExtendedVictoria](https://github.com/papiricoh/extendedTimeline) | YES | YES | NO |
 | [ESX_Lawyer](https://github.com/papiricoh/esx_lawyer) | NO | YES | YES |
