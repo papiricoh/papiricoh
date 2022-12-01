@@ -16,7 +16,8 @@ Born in the [Austro-Hungarian Empire](https://en.wikipedia.org/wiki/Austria-Hung
 | ---      | ---       | --- | ---|
 | [ExtendedVictoria](https://github.com/papiricoh/extendedTimeline) | YES | YES | NO |
 | [ESX_Lawyer](https://github.com/papiricoh/esx_lawyer) | NO | YES | YES |
-| [ESX_Politics](esx_politics) | YES | NO | NO |
+| [ESX_Politics](https://github.com/papiricoh/esx_politics) | YES | YES | NO |
+| [PokemonProject]([esx_politics](https://github.com/papiricoh/)pokemonProject) | YES | NO | NO |
 
 ## Activity Graph
 [![papiricoh's github activity graph](https://activity-graph.herokuapp.com/graph?username=papiricoh&theme=merko)](https://github.com/papiricoh/github-readme-activity-graph)
