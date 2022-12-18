@@ -20,7 +20,8 @@ Born in the [Austro-Hungarian Empire](https://en.wikipedia.org/wiki/Austria-Hung
 | [PokemonProject](https://github.com/papiricoh/pokemonProject) | YES | NO | NO |
 
 ## Activity Graph
-[![papiricoh's github activity graph](https://activity-graph.herokuapp.com/graph?username=papiricoh&theme=merko)](https://github.com/papiricoh/github-readme-activity-graph)
+[![Papiricoh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=papiricoh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,lua,html&perline=3)](https://skillicons.dev)
