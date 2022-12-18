@@ -14,10 +14,10 @@ Born in the [Austro-Hungarian Empire](https://en.wikipedia.org/wiki/Austria-Hung
 
 | Project     | In Active | Runable | Finnished |
 | ---      | ---       | --- | ---|
-| [ExtendedVictoria](https://github.com/papiricoh/extendedTimeline) | YES | YES | NO |
+| [ExtendedVictoria](https://github.com/papiricoh/extendedTimeline) | NO | YES | NO |
 | [ESX_Lawyer](https://github.com/papiricoh/esx_lawyer) | NO | YES | YES |
 | [ESX_Politics](https://github.com/papiricoh/esx_politics) | YES | YES | NO |
-| [PokemonProject](https://github.com/papiricoh/pokemonProject) | YES | NO | NO |
+| [PokemonProject](https://github.com/papiricoh/pokemonProject) | NO | NO | NO |
 
 ## Activity Graph
 [![Papiricoh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=papiricoh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
