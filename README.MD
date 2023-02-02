@@ -7,7 +7,7 @@
 - PARADOX LANGUAJE: 🔘 🔘 🔘 🔘 🔘
 - HTML/CSS: 🔘 ⚫️ ⚫️ ⚫️ ⚫️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papiricoh&layout=compact&theme=synthwave)](https://github.com/papiricoh/github-readme-stats)
+[![Papiricoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=papiricoh)](https://github.com/anuraghazra/github-readme-stats)
 
 | Project     | In Active | Runable | Finnished |
 | ---      | ---       | --- | ---|
