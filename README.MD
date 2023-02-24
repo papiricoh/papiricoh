@@ -4,8 +4,9 @@
 
 - LUA: 🔘 🔘 🔘 🔘 ⚫️
 - JAVA: 🔘 🔘 🔘 🔘 ⚫️
-- PARADOX LANGUAJE: 🔘 🔘 🔘 🔘 🔘
+- JavaScript: 🔘 🔘 ⚫️ ⚫️ ⚫️
 - HTML/CSS: 🔘 🔘 ⚫️ ⚫️ ⚫️
+- Vue3.js: 🔘 ⚫️ ⚫️ ⚫️ ⚫️
 
 [![Papiricoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=papiricoh)](https://github.com/anuraghazra/github-readme-stats)
 
