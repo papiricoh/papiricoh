@@ -12,7 +12,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papiricoh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=papiricoh&theme=dracula&layout=compact&hide_border=true" alt="papiricoh :: Top Langs by commit" />
 | Project     | In Active | Runable | Finnished |
 | ---      | ---       | --- | ---|
 | [ExtendedVictoria](https://github.com/papiricoh/extendedTimeline) | NO | YES | NO |
