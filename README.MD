@@ -11,7 +11,8 @@
 [![Papiricoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=papiricoh)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papiricoh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papiricoh)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=papiricoh&theme=dracula&layout=compact&hide_border=true" alt="papiricoh :: Top Langs by commit" />
 | Project     | In Active | Runable | Finnished |
 | ---      | ---       | --- | ---|
