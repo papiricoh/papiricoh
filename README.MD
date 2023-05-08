@@ -1,4 +1,5 @@
 # Papiricoh
+<img src="https://gpvc.arturio.dev/papiricoh" alt="Profile views" align='left'/> <a href="https://github.com/papiricoh/papiricoh/"> </a>
 
 ## List of liked languajes
 
