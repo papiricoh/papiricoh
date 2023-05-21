@@ -9,6 +9,7 @@
 - HTML/CSS: 🔘 🔘 ⚫️ ⚫️ ⚫️
 - Vue3.js: 🔘 ⚫️ ⚫️ ⚫️ ⚫️
 
+[![Papiricoh's Stats](https://github-stats-alpha.vercel.app/api?username=papiricoh&cc=22272e&tc=37BCF6&ic=fff&bc=0000)]
 [![Papiricoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=papiricoh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
