@@ -3,7 +3,6 @@
 <br>
 
 ![Papiricoh's Stats](https://github-stats-alpha.vercel.app/api?username=papiricoh&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
-
 <img height="150" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=papiricoh&theme=dracula&layout=compact&hide_border=true" alt="papiricoh :: Top Langs by commit" />
 
 ## Activity Graph
