@@ -1,13 +1,6 @@
 # Papiricoh
 <img src="https://gpvc.arturio.dev/papiricoh" alt="Profile views" align='left'/> <a href="https://github.com/papiricoh/papiricoh/"> </a>
 <br>
-## List of liked languajes
-
-- LUA: 🔘 🔘 🔘 🔘 ⚫️
-- JAVA: 🔘 🔘 🔘 🔘 ⚫️
-- JavaScript: 🔘 🔘 ⚫️ ⚫️ ⚫️
-- HTML/CSS: 🔘 🔘 ⚫️ ⚫️ ⚫️
-- Vue3.js: 🔘 ⚫️ ⚫️ ⚫️ ⚫️
 
 ![Papiricoh's Stats](https://github-stats-alpha.vercel.app/api?username=papiricoh&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 
