@@ -1,12 +1,8 @@
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;I'm Pablo Rico;Full Stack Developer&center=true&size=30">
-  </a>
-</h1>
-<hr>
+
 <img src="https://github-stats-alpha.vercel.app/api?username=papiricoh&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
 <br>
+<hr>
 <h2>My Skills:</h2>
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
