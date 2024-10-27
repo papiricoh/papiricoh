@@ -1,7 +1,6 @@
 
 
 <img src="https://github-stats-alpha.vercel.app/api?username=papiricoh&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
-<br>
 <hr>
 <h2>My Skills:</h2>
 <p>
